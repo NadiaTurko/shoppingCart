@@ -10,3 +10,6 @@ install dependencies and start local dev server
 npm install
 <br>
 npm start
+
+<br> The application will start automatically in your browser on http://localhost:3000
+
