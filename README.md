@@ -8,4 +8,5 @@ getting started
 install dependencies and start local dev server
 
 npm install
+<br>
 npm start
